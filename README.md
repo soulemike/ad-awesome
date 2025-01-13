@@ -26,7 +26,7 @@
 - [Daniel Chronlund](https://danielchronlund.com/)
 - [Eric Woodruff](https://ericonidentity.com/)
 - [Fabian Bader](https://cloudbrothers.info/)
-- [Jake Hildreth](https://trimarcjake.github.io/blog/)
+- [Jake Hildreth](https://jakehildreth.github.io/blog/)
 - [Jay Paloma](https://jpaloma.wordpress.com/)
 - [Jeffrey Appel](https://jeffreyappel.nl/)
 - [Merill Fernando](https://merill.net/)
