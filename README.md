@@ -30,7 +30,7 @@
 - [Jay Paloma](https://jpaloma.wordpress.com/)
 - [Jeffrey Appel](https://jeffreyappel.nl/)
 - [Merill Fernando](https://merill.net/)
-- [Michael Soule](https://snozzberries.github.io/)
+- [Michael Soule](https://soulemike.github.io/)
 - [Narayanan Subramanian](https://medium.com/@nannnu) 
 - [Nathan McNulty](https://blog.nathanmcnulty.com/)
 - [Przemysław Kłys](https://evotec.xyz/hub/)
