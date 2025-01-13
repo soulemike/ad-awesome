@@ -54,7 +54,7 @@
 - [Design Guide](https://learn.microsoft.com/en-us/archive/technet-wiki/7421.active-directory-certificate-services-ad-cs-public-key-infrastructure-pki-design-guide)
 - [Ent CA](https://learn.microsoft.com/en-us/archive/technet-wiki/53249.active-directory-certificate-services-enterprise-ca-architecture)
 - [Lab Guide](https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-R2-and-2012/hh831348(v=ws.11))
-- [Locksmith](https://github.com/TrimarcJake/Locksmith)
+- [Locksmith](https://github.com/jakehildreth/Locksmith)
 - [NDES](https://learn.microsoft.com/en-us/archive/technet-wiki/9063.active-directory-certificate-services-ad-cs-network-device-enrollment-service-ndes)
 - [PSPKIAudit](https://github.com/GhostPack/PSPKIAudit)
 - [Site Awareness](https://learn.microsoft.com/en-us/archive/technet-wiki/14106.ad-ds-site-awareness-for-ad-cs-and-pki-clients)
