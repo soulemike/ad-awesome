@@ -12,6 +12,7 @@
 - [PowerShell](#ps)
 - [Privileged Access Workstations](#paw)
 - [Windows Server](#ws)
+- [Reddit /r/activedirectory Resources](https://www.reddit.com/r/activedirectory/comments/1iyaf9d/active_directory_resource)
 
 ## Blogs
 
