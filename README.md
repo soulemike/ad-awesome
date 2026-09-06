@@ -69,6 +69,7 @@
 - [ACSC Log Forwarding](https://www.cyber.gov.au/resources-business-and-government/maintaining-devices-and-systems/system-hardening-and-administration/system-monitoring/windows-event-logging-and-forwarding)
 - [Active Directory Best practices](https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2003/cc778219(v=ws.10))
 - [Active Directory Health Check: Troubleshooting](https://learn.microsoft.com/en-us/archive/technet-wiki/32911.active-directory-health-check-troubleshooting)
+- [Active Directory Penetration Testing with Autonomous AI](https://dark-moon.org/blog/active-directory-penetration-testing-ai/)
 - [AD Attack & Defense](https://github.com/infosecn1nja/AD-Attack-Defense)
 - [AD Checklist](https://github.com/mczerniawski/Active-Directory-CheckList/tree/master)
 - [AD Discovery Checklist](https://learn.microsoft.com/en-us/archive/technet-wiki/38512.active-directory-domain-discovery-checklist)
