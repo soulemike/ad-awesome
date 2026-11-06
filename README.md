@@ -17,9 +17,6 @@
 ## Blogs
 
 - [AD.News - Your Weekly Dose of Not-So-Dead Active Directory](https://ad.admin.news/)
-
----
-
 - [AJ's Tech Chatter](https://anthonyfontanez.com/)
 - [Alan Burchill](https://www.grouppolicy.biz/)
 - [Carsten Sandker](https://csandker.io/)
